@@ -1,3 +1,5 @@
+Action isn’t just the effect of motivation, but also the cause of it.
+
 - 👋 Hi, I’m @m-a-razvan
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning NodeJs
